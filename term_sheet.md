@@ -9,7 +9,7 @@
 
 ## 1. Präambel
 1. Die [Firma IPTEACH GmbH](https://ipteach.ch) (nachfolgend "IPT") und dem [Verein looplab.ch](https://looplab.ch) (nachfolgend "LL"), gemeinsam "DIE PARTNER", beabsichtigen eine Zusammenarbeit im Bereich "Learn Management Systeme" (LMS) und der Digitalisierung von Lehrmitteln. 
-2. Dieses Dokument regelt die Zusammenarbeit zwischen der [Firma IPTEACH GmbH](https://ipteach.ch) (nachfolgend "IPT") und dem [Verein looplab.ch](https://looplab.ch) (nachfolgend "LL"), gemeinsam "DIE PARTNER".
+2. Dieses Dokument regelt die Zusammenarbeit zwischen IPT und LL in einer flexiblen Form.
 
 ## 2. Dieses Dokument
 1. Dieses Term Sheet ist als agile Alternative zu einem klassischen Vertrag zu verstehen.
