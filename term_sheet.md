@@ -5,7 +5,7 @@
 |Partner|[Firma IPTEACH GmbH](https://ipteach.ch), Vertreten durch Pascal Schärli|
 |Partner|[Verein looplab.ch](https://looplab.ch), Vertreten durch 7 of 9|
 |Stand|13.09.2024|
-|Version|0.0|
+|Version|0.1|
 
 ## 1. Präambel
 1. Die [Firma IPTEACH GmbH](https://ipteach.ch) (nachfolgend "IPT") und dem [Verein looplab.ch](https://looplab.ch) (nachfolgend "LL"), gemeinsam "DIE PARTNER", beabsichtigen eine Zusammenarbeit im Bereich "Learn Management Systeme" (LMS) und der Digitalisierung von Lehrmitteln. 
