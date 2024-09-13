@@ -66,3 +66,6 @@
 
 ## 11. Gültigkeit
 1. Dieses Dokument ist mit dem beidseitigen "Commit" ohne Unterschrift und mit dem Timestamp des "Commits" gültig.
+
+## 12. Bestätigungen
+1. Martin Dörig für looplab.ch
