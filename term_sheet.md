@@ -8,7 +8,7 @@
 |Version|0.0|
 
 ## 1. Präambel
-1. Die [Firma IPTEACH GmbH](https://ipteach.ch) (nachfolgend "IPT") und dem [Verein looplab.ch](https://looplab.ch) (nachfolgend "LL"), gemeinsam "DIE PARTNER".
+1. Die [Firma IPTEACH GmbH](https://ipteach.ch) (nachfolgend "IPT") und dem [Verein looplab.ch](https://looplab.ch) (nachfolgend "LL"), gemeinsam "DIE PARTNER", beabsichtigen eine Zusammenarbeit im Bereich "Learn Management Systeme" (LMS) und der Digitalisierung von Lehrmitteln. 
 2. Dieses Dokument regelt die Zusammenarbeit zwischen der [Firma IPTEACH GmbH](https://ipteach.ch) (nachfolgend "IPT") und dem [Verein looplab.ch](https://looplab.ch) (nachfolgend "LL"), gemeinsam "DIE PARTNER".
 
 ## 2. Dieses Dokument
