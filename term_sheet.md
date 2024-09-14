@@ -55,7 +55,7 @@
 
 ## 8. Verfahren bei Differenzen
 1. Bei Differnezen werden die Partner immer zuerst und zeitnah das direkte Gespräch suchen, um diese Differnezen im Sinne der Sache im Guten zu beheben.
-2. Sind die Differnezn nicht zu überwinden, dann werden die beiden Partner eine neutralde Mediationsstelle einsetzen/Eine Münze werfen.
+2. Sind die Differnezn nicht zu überwinden, dann werden die beiden Partner [eine neutralde Mediationsstelle einsetzen/Eine Münze werfen].
 
 ## 9. Salvatorische Klausel
 1. Sollten einzelne Vereinbarungen dieses Dokumentes ganz oder teilweise unwirksam oder undurchführbar sein oder werden, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.
