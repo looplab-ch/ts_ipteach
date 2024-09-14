@@ -1,2 +1,4 @@
 # Readme
-Hier findest du die aktuellste Version des Term Sheet zwischen IPTEACH GmbH (elektrokompass.ch) und dem Vereins looplab.ch.
+Hier findest du die aktuellste Version des Term Sheet zwischen [IPTEACH GmbH](IPTEACH.ch) ([elektrokompass.ch](elektrokompass.ch)) und dem Verein [looplab.ch](looplab.ch).
+
+[Term Sheet](https://github.com/looplab_ch/ts_ipteach/termsheet.md
