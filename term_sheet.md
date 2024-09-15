@@ -8,7 +8,7 @@
 |Version|0.1|
 
 ## 1. Präambel
-1. Die [Firma IPTEACH GmbH](https://ipteach.ch) (nachfolgend "IPT") und dem [Verein looplab.ch](https://looplab.ch) (nachfolgend "LL"), gemeinsam "DIE PARTNER", beabsichtigen eine Zusammenarbeit im Bereich "Learn Management Systeme" (LMS) und der Digitalisierung von Lehrmitteln. 
+1. Die [Firma IPTEACH GmbH](https://ipteach.ch) (nachfolgend "IPT") und der [Verein looplab.ch](https://looplab.ch) (nachfolgend "LL"), gemeinsam "DIE PARTNER", beabsichtigen eine Zusammenarbeit im Bereich "Learn Management Systeme" (LMS) und der Digitalisierung von Lehrmitteln. 
 2. Dieses Dokument regelt die Zusammenarbeit zwischen IPT und LL in einer flexiblen Form.
 
 ## 2. Dieses Dokument
@@ -54,8 +54,8 @@
 4. Mit der Kündigung können keinerlei gegenseitige Ansprüche erhoben werden.
 
 ## 8. Verfahren bei Differenzen
-1. Bei Differnezen werden die Partner immer zuerst und zeitnah das direkte Gespräch suchen, um diese Differnezen im Sinne der Sache im Guten zu beheben.
-2. Sind die Differnezn nicht zu überwinden, dann werden die beiden Partner [eine neutralde Mediationsstelle einsetzen/Eine Münze werfen].
+1. Bei Differenzen werden die Partner immer zuerst und zeitnah das direkte Gespräch suchen, um diese Differenzen im Sinne der Sache im Guten zu beheben.
+2. Sind die Differenzen nicht zu überwinden, dann werden die beiden Partner [eine neutralde Mediationsstelle einsetzen/Eine Münze werfen].
 
 ## 9. Salvatorische Klausel
 1. Sollten einzelne Vereinbarungen dieses Dokumentes ganz oder teilweise unwirksam oder undurchführbar sein oder werden, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.
